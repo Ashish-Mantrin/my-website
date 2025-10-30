@@ -28228,7 +28228,7 @@ screen and (max-height: 300px) {
 .owl-theme .owl-dots .owl-dot {
     display: inline-block;
     zoom: 1;
-    *display: inline
+    display: inline
 }
 
 .owl-theme .owl-dots .owl-dot span {
@@ -30655,7 +30655,7 @@ section.md {
 }
 
 .border-color-light-white {
-    border-color: rgba(255, 255, 255, 0.1) !important
+    border-color: rgb(255 255 255 / 0%) !important;
 }
 
 .border-color-light-black {
@@ -48045,7 +48045,7 @@ header {
 .menu_area .navbar-brand {
     transition: all 0.5s ease 0s;
     display: inline-block;
-    background-color: #fff;
+    /* background-color: #fff; */
 }
 
 .navbar-nav li {
