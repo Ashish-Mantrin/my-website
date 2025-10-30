@@ -1,0 +1,1304 @@
+Uri: https://flywebhtml.websitelayout.net/
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index.htm
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/404-page.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\404-page.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/about.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\about.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-details.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-details.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-grid-two-columns-left-sidebar.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-grid-two-columns-left-sidebar.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-grid-two-columns-right-sidebar.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-grid-two-columns-right-sidebar.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-grid-two-columns.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-grid-two-columns.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-grid.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-grid.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/blog-list.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\blog-list.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/coming-soon.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\coming-soon.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/contact.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\contact.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/content-writting.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\content-writting.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/css/plugins.css
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\css\plugins.css
+Content Type: text/css
+
+Uri: https://flywebhtml.websitelayout.net/css/scrollbar.css
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\css\scrollbar.css
+Content Type: text/css
+
+Uri: https://flywebhtml.websitelayout.net/css/styles.css
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\css\styles.css
+Content Type: text/css
+
+Uri: https://flywebhtml.websitelayout.net/design-branding.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\design-branding.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/faq.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\faq.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://flywebhtml.websitelayout.net/fonts/lg.svg?22t19m
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://flywebhtml.websitelayout.net/fonts/lg.ttf?22t19m
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\lg.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/lg.woff?22t19m
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\lg.woff
+Content Type: font/woff
+
+Uri: https://flywebhtml.websitelayout.net/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://flywebhtml.websitelayout.net/fonts/themify.eot?-fvbane
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://flywebhtml.websitelayout.net/fonts/themify.svg?-fvbane
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: https://flywebhtml.websitelayout.net/fonts/themify.ttf?-fvbane
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: https://flywebhtml.websitelayout.net/fonts/themify.woff?-fvbane
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\fonts\themify.woff
+Content Type: font/woff
+
+Uri: https://flywebhtml.websitelayout.net/how-we-work.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\how-we-work.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-09.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-09.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-10.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-10.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-11.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-11.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-12.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-12.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-13.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-13.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/avatars/avatar-14.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\avatars\avatar-14.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/banner/vide-bg-img.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\banner\vide-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/bg/bg-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\bg\bg-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/bg/vide-bg-img-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\bg\vide-bg-img-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/bg/video-bg-img.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\bg\video-bg-img.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-details-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-details-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-details-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-details-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-thumb-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-thumb-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-thumb-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-thumb-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/blog-thumb-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\blog-thumb-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/next-blog.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\next-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/blog/prev-blog.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\blog\prev-blog.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/01.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\01.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/02.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\02.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/03.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\03.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/04.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\04.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/05.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\05.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/06.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\06.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/07.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\07.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/clients/08.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\clients\08.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/404-img.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\404-img.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-13.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-13.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-14.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-14.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-15.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-15.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-16.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-16.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-17.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-17.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-18.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-18.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about-19.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about-19.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about14.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about14.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about15.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about15.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about16.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about16.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about17.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about17.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about18.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about18.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about19.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about19.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about20.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about20.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about21.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about21.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about22.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about22.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about23.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about23.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/about3.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\about3.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/contact-img.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\contact-img.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/extra-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\extra-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/extra-sec-img-2.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\extra-sec-img-2.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/extra-sec-img.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\extra-sec-img.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/faq1.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\faq1.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/faq2.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\faq2.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/history-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\history-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/history-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\history-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/history-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\history-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/history-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\history-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/loading.gif
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\loading.gif
+Content Type: image/gif
+
+Uri: https://flywebhtml.websitelayout.net/img/content/process-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\process-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/process-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\process-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/process-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\process-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/process-line.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\process-line.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/shape-01.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\shape-01.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/shape-02.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\shape-02.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/shape-03.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\shape-03.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/shape-05.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\shape-05.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/shape10.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\shape10.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/signature-1.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\signature-1.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/signature-2.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\signature-2.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/signature.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\signature.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/content/why-choose-08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\content\why-choose-08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/01.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\01.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/02.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\02.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/03.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\03.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/04.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\04.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/05.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\05.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/06.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\06.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/07.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\07.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/08.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\08.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/09.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\09.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/10.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\10.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/11.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\11.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/12.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\12.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/13.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\13.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/14.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\14.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/15.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\15.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/16.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\16.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/17.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\17.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/18.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\18.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/19.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\19.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/20.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\20.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/21.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\21.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/22.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\22.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/23.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\23.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/arrow-bottom.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\arrow-bottom.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/arrow-top.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\arrow-top.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-26.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-26.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-27.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-27.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-28.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-28.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-29.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-29.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-30.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-30.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-31.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-31.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-32.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-32.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-33.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-33.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-34.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-34.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-35.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-35.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-36.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-36.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-37.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-37.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-38.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-38.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-39.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-39.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-40.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-40.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-41.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-41.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-42.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-42.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-43.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-43.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-44.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-44.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-45.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-45.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-46.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-46.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-47.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-47.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-48.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-48.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-53.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-53.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-54.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-54.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-55.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-55.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-56.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-56.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-57.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-57.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-58.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-58.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-59.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-59.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-67.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-67.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-68.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-68.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-69.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-69.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-70.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-70.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-71.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-71.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-72.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-72.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-73.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-73.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-74.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-74.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-75.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-75.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-76.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-76.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-77.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-77.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-mail.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-mail.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/icon-phone.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\icon-phone.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/process-arrow.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\process-arrow.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/quote-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\quote-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/quote-02.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\quote-02.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/quote-03.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\quote-03.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/icons/quote.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\icons\quote.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/apple-touch-icon-114x114.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\apple-touch-icon-114x114.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/apple-touch-icon-57x57.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\apple-touch-icon-57x57.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/apple-touch-icon-72x72.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\apple-touch-icon-72x72.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/favicon.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\favicon.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/footer-light-logo.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\footer-light-logo.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/logo-inner.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\logo-inner.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/logos/logo.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\logos\logo.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-01.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-01.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-02.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-02.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-03.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-03.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-04.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-04.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-05.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-05.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-06.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-06.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-07.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-07.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-08.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-08.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-09.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-09.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/partners/partner-10.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\partners\partner-10.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/next-project.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\next-project.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-09.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-09.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-10.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-10.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-11.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-11.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-12.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-12.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-13.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-13.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-14.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-14.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-15.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-15.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-16.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-16.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-17.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-17.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-18.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-18.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-19.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-19.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-20.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-20.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-21.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-21.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-22.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-22.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-23.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-23.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-24.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-24.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-details-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-details-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/portfolio-details-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\portfolio-details-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/portfolio/prev-project.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\portfolio\prev-project.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/flyweb-web-design-agency-wordpress-theme.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\flyweb-web-design-agency-wordpress-theme.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/habitro-nutrition-health-diet-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\habitro-nutrition-health-diet-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/lifest-insurance-agency-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\lifest-insurance-agency-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/monity–cctv-security-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\monity–cctv-security-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/prolio-business-consulting-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\prolio-business-consulting-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/renuma-solar-renewable-energy-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\renuma-solar-renewable-energy-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/solutic-it-solutions-services-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\solutic-it-solutions-services-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/preview/topweb-web-design-agency-html-template.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\preview\topweb-web-design-agency-html-template.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-09.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-09.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-13.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-13.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-14.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-14.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-15.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-15.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-2.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-2.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/service/service-details-3.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\service\service-details-3.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-01.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-02.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-03.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-04.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-05.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-06.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-07.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-08.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-08.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-09.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-09.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-10.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-10.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-11.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-11.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-12.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-12.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/img/team/team-13.jpg
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\img\team\team-13.jpg
+Content Type: image/jpeg
+
+Uri: https://flywebhtml.websitelayout.net/index-02.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-02.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-03.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-03.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-04.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-04.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-05.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-05.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-06.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-06.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-07.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-07.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index-08.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index-08.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/index.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\index.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/js/core.min.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\core.min.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/js/jquery.scrollbar.min.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\jquery.scrollbar.min.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/js/main.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\main.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/js/popper.min.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/portfolio-details.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\portfolio-details.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/portfolio-four-columns.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\portfolio-four-columns.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/portfolio-two-columns.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\portfolio-two-columns.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/portfolio.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\portfolio.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/pricing.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\pricing.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/privacy-policy.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\privacy-policy.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/quform/css/base.css
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\css\base.css
+Content Type: text/css
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/captcha-refresh-icon.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\captcha-refresh-icon.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/captcha/courier-new-light.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\captcha\courier-new-light.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/close.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\close.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/default-loading.gif
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\default-loading.gif
+Content Type: image/gif
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/error.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\error.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/help-icon.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\help-icon.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/images/success.png
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\images\success.png
+Content Type: image/png
+
+Uri: https://flywebhtml.websitelayout.net/quform/js/plugins.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\js\plugins.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/quform/js/scripts.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\quform\js\scripts.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/search/search.css
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\search\search.css
+Content Type: text/css
+
+Uri: https://flywebhtml.websitelayout.net/search/search.js
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\search\search.js
+Content Type: application/javascript
+
+Uri: https://flywebhtml.websitelayout.net/seo-optimization.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\seo-optimization.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/services.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\services.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/team-details.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\team-details.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/team.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\team.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/web-application.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\web-application.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/web-designing.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\web-designing.html
+Content Type: text/html
+
+Uri: https://flywebhtml.websitelayout.net/web-development.html
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\web-development.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_907NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0nNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUnNSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m07NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU7NSg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v12/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+File Name: C:\Downloaded Web Sites\flywebhtml.websitelayout.net\s\plusjakartasans\v12\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_TknNSg.ttf
+Content Type: font/ttf
+
