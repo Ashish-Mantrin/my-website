@@ -12,13 +12,13 @@
     <meta name="description" content=" Web Design Agency">
 
     <!-- title  -->
-    <title> Web Design Agency</title>
+    <title>DesignMyCode</title>
 
     <!-- favicon -->
-    <link rel="shortcut icon" href="img/logos/new-logo.png">
-    <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png">
+    <link rel="shortcut icon" href="img/logos/only-logo.png">
+    <link rel="apple-touch-icon" href="img/logos/only-logo.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="img/logos/only-logo.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="img/logos/only-logo.png">
 
     <!-- plugins -->
     <link rel="stylesheet" href="css/plugins.css">
@@ -53,23 +53,6 @@
 
             <div class="navbar-default border-bottom border-color-light-white">
 
-                <!-- start top search -->
-                <div class="top-search bg-primary">
-                    <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
-                        <form class="search-form" action="search.html" method="GET" accept-charset="utf-8">
-                            <div class="input-group">
-                                <span class="input-group-addon cursor-pointer">
-                                    <button class="search-form_submit fas fa-search text-white" type="submit"></button>
-                                </span>
-                                <input type="text" class="search-form_input form-control" name="s" autocomplete="off"
-                                    placeholder="Type & hit enter...">
-                                <span class="input-group-addon close-search mt-1"><i class="fas fa-times"></i></span>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-                <!-- end top search -->
-
                 <div class="container-fluid px-lg-1-6 px-xl-2-5 px-xxl-2-9">
                     <div class="row align-items-center">
                         <div class="col-12 col-lg-12">
@@ -78,7 +61,7 @@
                                     <div class="navbar-header navbar-header-custom">
                                         <!-- start logo -->
                                         <a href="index.html" class="navbar-brand"><img id="logo"
-                                                src="./img/logos/logo.png" alt="logo"></a>
+                                                src="./img/logos/white-logo.png" alt="logo"></a>
                                         <!-- end logo -->
                                     </div>
 
@@ -86,7 +69,7 @@
 
                                     <!-- start menu area -->
                                     <ul class="navbar-nav ms-auto" id="nav" style="display: none;">
-                                        <li><a href="#">Home</a>
+                                        <li><a href="index.html">Home</a>
                                         </li>
                                         <li>
                                             <a href="#">Pages</a>
@@ -102,9 +85,7 @@
                                                     </ul>
                                                 </li>
                                                 <li><a href="pricing.html">Pricing Plans</a></li>
-                                                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                                                <li><a href="404-page.html">404 Page</a></li>
-                                                <li><a href="coming-soon.html">Coming Soon</a></li>
+
                                             </ul>
                                         </li>
                                         <li>
@@ -122,12 +103,7 @@
                                         <li>
                                             <a href="#">Portfolio</a>
                                             <ul>
-                                                <li><a href="#">Portfolio Grid</a>
-                                                    <ul>
-                                                        <li><a href="portfolio-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="portfolio.html">3 Columns - Standard</a></li>
-                                                        <li><a href="portfolio-four-columns.html">4 Columns</a></li>
-                                                    </ul>
+                                                <li><a href="portfolio.html">Portfolio</a>
                                                 </li>
                                                 <li><a href="portfolio-details.html">Portfolio Details</a></li>
                                             </ul>
@@ -135,16 +111,7 @@
                                         <li>
                                             <a href="#">Blog</a>
                                             <ul>
-                                                <li><a href="#">Blog Grid</a>
-                                                    <ul>
-                                                        <li><a href="blog-grid-two-columns.html">2 Columns</a></li>
-                                                        <li><a href="blog-grid-two-columns-left-sidebar.html">2 Col –
-                                                                Left Sidebar</a></li>
-                                                        <li><a href="blog-grid-two-columns-right-sidebar.html">2 Col –
-                                                                Right Sidebar</a></li>
-                                                        <li><a href="blog-grid.html">3 Columns - Standard</a></li>
-                                                    </ul>
-                                                </li>
+                                                <li><a href="blog-grid.html">Blog</a></li>
                                                 <li><a href="blog-list.html">Blog List</a></li>
                                                 <li><a href="blog-details.html">Blog Details</a></li>
                                             </ul>
@@ -156,7 +123,7 @@
                                     <!-- start attribute navigation -->
                                     <div class="attr-nav align-items-xl-center ms-xl-auto main-font">
                                         <ul>
-                                            <li class="search"><a href="#"><i class="fas fa-search"></i></a></li>
+                                            <!-- <li class="search"><a href="#"><i class="fas fa-search"></i></a></li> -->
                                             <li class="d-none d-xl-inline-block"><a href="contact.html"
                                                     class="btn-style1 white-hover small"><span>Free Quote</span></a>
                                             </li>
@@ -173,7 +140,8 @@
 
         <!-- PAGE TITLE
         ================================================== -->
-        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary" data-overlay-dark="8" data-background="img/banner/page-title.jpg">
+        <section class="page-title-section top-position1 bg-img cover-background left-overlay-secondary"
+            data-overlay-dark="8" data-background="img/banner/page-title.jpg">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
@@ -194,104 +162,117 @@
         <!-- PORTFOLIO DETAILS
         ================================================== -->
         <section>
-    <div class="container">
-        <div>
-            <!-- Main Project Image -->
-            <div class="wow fadeIn image-hover">
-                <img src="img/portfolio/portfolio-details-01.jpg" class="mb-1-9 border-radius-10" alt="Website Redesign Project">
-            </div>
+            <div class="container">
+                <div>
+                    <!-- Main Project Image -->
+                    <div class="wow fadeIn image-hover">
+                        <img src="img/portfolio/portfolio-details-01.jpg" class="mb-1-9 border-radius-10"
+                            alt="Website Redesign Project">
+                    </div>
 
-            <!-- Project Info -->
-            <div class="bg-secondary text-center mb-2-3 p-2-3 border-radius-10 wow fadeIn" data-wow-delay="200ms">
-                <div class="row mt-n1-9">
-                    <div class="col-lg-3 mt-1-9">
-                        <h3 class="h5 text-primary">Client</h3>
-                        <p class="mb-0 text-white">Digital Spark Pvt. Ltd.</p>
+                    <!-- Project Info -->
+                    <div class="bg-secondary text-center mb-2-3 p-2-3 border-radius-10 wow fadeIn"
+                        data-wow-delay="200ms">
+                        <div class="row mt-n1-9">
+                            <div class="col-lg-3 mt-1-9">
+                                <h3 class="h5 text-primary">Client</h3>
+                                <p class="mb-0 text-white">Digital Spark Pvt. Ltd.</p>
+                            </div>
+                            <div class="col-lg-3 mt-1-9">
+                                <h3 class="h5 text-primary">Project Value</h3>
+                                <p class="mb-0 text-white">$5,500</p>
+                            </div>
+                            <div class="col-lg-3 mt-1-9">
+                                <h3 class="h5 text-primary">Date</h3>
+                                <p class="mb-0 text-white">October 10, 2025</p>
+                            </div>
+                            <div class="col-lg-3 mt-1-9">
+                                <h3 class="h5 text-primary">Category</h3>
+                                <p class="mb-0 text-white">Website Redesign</p>
+                            </div>
+                        </div>
                     </div>
-                    <div class="col-lg-3 mt-1-9">
-                        <h3 class="h5 text-primary">Project Value</h3>
-                        <p class="mb-0 text-white">$5,500</p>
-                    </div>
-                    <div class="col-lg-3 mt-1-9">
-                        <h3 class="h5 text-primary">Date</h3>
-                        <p class="mb-0 text-white">October 10, 2025</p>
-                    </div>
-                    <div class="col-lg-3 mt-1-9">
-                        <h3 class="h5 text-primary">Category</h3>
-                        <p class="mb-0 text-white">Website Redesign</p>
-                    </div>
-                </div>
-            </div>
 
-            <!-- Project Description -->
-            <div class="wow fadeInUp" data-wow-delay="200ms">
-                <h2 class="mb-4">Project Overview</h2>
-                <p class="mb-4">
-                    <span class="display-26 bg-primary text-white position-relative float-start p-3 me-3 border-radius-8">W</span>
-                    DesignMy Code worked closely with Digital Spark Pvt. Ltd. to completely revamp their corporate website. Our goal was to create a modern, responsive, and high-performing site that enhances user experience and boosts engagement. The team ensured seamless integration with existing platforms while optimizing speed and design aesthetics.
-                </p>
-            </div>
-
-            <div class="wow fadeInUp" data-wow-delay="200ms">
-                <p>
-                    We handled everything from concept design to final deployment, ensuring the website is scalable and future-ready. Our solution included intuitive navigation, engaging visuals, and mobile optimization to enhance accessibility for all users.
-                </p>
-                <div class="row">
-                    <div class="col-xl-6">
-                        <p>
-                            Key deliverables for this project included:
+                    <!-- Project Description -->
+                    <div class="wow fadeInUp" data-wow-delay="200ms">
+                        <h2 class="mb-4">Project Overview</h2>
+                        <p class="mb-4">
+                            <span
+                                class="display-26 bg-primary text-white position-relative float-start p-3 me-3 border-radius-8">W</span>
+                            DesignMy Code worked closely with Digital Spark Pvt. Ltd. to completely revamp their
+                            corporate website. Our goal was to create a modern, responsive, and high-performing site
+                            that enhances user experience and boosts engagement. The team ensured seamless integration
+                            with existing platforms while optimizing speed and design aesthetics.
                         </p>
-                        <ul class="list-style2 mb-0">
-                            <li>Modern UI/UX design aligned with brand identity</li>
-                            <li>Responsive web design for all devices</li>
-                            <li>Optimized website speed and performance</li>
-                            <li>Seamless integration with existing CMS and APIs</li>
-                            <li>SEO-friendly structure and metadata implementation</li>
-                            <li>Ongoing maintenance and technical support</li>
-                        </ul>
                     </div>
-                    <div class="col-xl-6 mt-4 mt-xl-0">
-                        <div class="image-hover">
-                            <img src="img/portfolio/portfolio-details-02.jpg" alt="Project Screenshots" class="rounded">
+
+                    <div class="wow fadeInUp" data-wow-delay="200ms">
+                        <p>
+                            We handled everything from concept design to final deployment, ensuring the website is
+                            scalable and future-ready. Our solution included intuitive navigation, engaging visuals, and
+                            mobile optimization to enhance accessibility for all users.
+                        </p>
+                        <div class="row">
+                            <div class="col-xl-6">
+                                <p>
+                                    Key deliverables for this project included:
+                                </p>
+                                <ul class="list-style2 mb-0">
+                                    <li>Modern UI/UX design aligned with brand identity</li>
+                                    <li>Responsive web design for all devices</li>
+                                    <li>Optimized website speed and performance</li>
+                                    <li>Seamless integration with existing CMS and APIs</li>
+                                    <li>SEO-friendly structure and metadata implementation</li>
+                                    <li>Ongoing maintenance and technical support</li>
+                                </ul>
+                            </div>
+                            <div class="col-xl-6 mt-4 mt-xl-0">
+                                <div class="image-hover">
+                                    <img src="img/portfolio/portfolio-details-02.jpg" alt="Project Screenshots"
+                                        class="rounded">
+                                </div>
+                            </div>
+                        </div>
+                        <p class="mb-0 mt-1-9">
+                            The project successfully delivered a visually appealing and highly functional website,
+                            helping Digital Spark Pvt. Ltd. improve its online presence, increase client engagement, and
+                            achieve measurable business growth.
+                        </p>
+                    </div>
+
+                    <!-- Navigation to Other Projects -->
+                    <div class="page-navigation mt-6 wow fadeInUp" data-wow-delay="200ms">
+                        <div class="prev-page">
+                            <div class="page-info">
+                                <a href="#">
+                                    <span class="image-prev"><img src="img/portfolio/prev-project.jpg"
+                                            alt="Previous Project"></span>
+                                    <div class="prev-link-page-info">
+                                        <h4 class="prev-title">E-Commerce Platform</h4>
+                                        <span class="date-details"><span class="create-date">Sep 25, 2025</span></span>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="next-page">
+                            <div class="page-info">
+                                <a href="#">
+                                    <div class="next-link-page-info">
+                                        <h4 class="next-title">Mobile App Development</h4>
+                                        <span class="date-details"><span class="create-date">Oct 20, 2025</span></span>
+                                    </div>
+                                    <span class="image-next"><img src="img/portfolio/next-project.jpg"
+                                            alt="Next Project"></span>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <p class="mb-0 mt-1-9">
-                    The project successfully delivered a visually appealing and highly functional website, helping Digital Spark Pvt. Ltd. improve its online presence, increase client engagement, and achieve measurable business growth.
-                </p>
             </div>
-
-            <!-- Navigation to Other Projects -->
-            <div class="page-navigation mt-6 wow fadeInUp" data-wow-delay="200ms">
-                <div class="prev-page">
-                    <div class="page-info">
-                        <a href="#">
-                            <span class="image-prev"><img src="img/portfolio/prev-project.jpg" alt="Previous Project"></span>
-                            <div class="prev-link-page-info">
-                                <h4 class="prev-title">E-Commerce Platform</h4>
-                                <span class="date-details"><span class="create-date">Sep 25, 2025</span></span>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <div class="next-page">
-                    <div class="page-info">
-                        <a href="#">
-                            <div class="next-link-page-info">
-                                <h4 class="next-title">Mobile App Development</h4>
-                                <span class="date-details"><span class="create-date">Oct 20, 2025</span></span>
-                            </div>
-                            <span class="image-next"><img src="img/portfolio/next-project.jpg" alt="Next Project"></span>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+        </section>
 
 
-        
+
         <!-- FOOTER
         ================================================== -->
         <footer class="footer-style2 bg-dark">
@@ -300,7 +281,7 @@
                     <div class="col-lg-4 mb-1-9 mb-lg-0">
                         <div class="footer-logo">
                             <a href="index.html">
-                                <img src="./img/logos/logo.png" class="mb-4" alt="...">
+                                <img src="./img/logos/white-logo.png" class="mb-4" alt="...">
                             </a>
                         </div>
                         <p class="mb-1-9 text-white w-xxl-85">We have been most trusted web design agency since 3+
@@ -325,7 +306,7 @@
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h4 class="h5 text-white mb-1">Phone</h4>
-                                                <p class="mb-0 text-white opacity8 small">(+91) 123 456 789</p>
+                                                <p class="mb-0 text-white opacity8 small">(+91) 639996102</p>
                                             </div>
                                         </div>
                                     </div>
@@ -336,7 +317,7 @@
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h4 class="h5 text-white mb-1">Email</h4>
-                                                <p class="mb-0 text-white opacity8 small">dummy@gmail.com</p>
+                                                <p class="mb-0 text-white opacity8 small">designmycode@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
