@@ -108,7 +108,7 @@ a:active {
 
 .left-overlay-secondary[data-overlay-dark]:before {
     background: rgba(31, 39, 50, 0.76);
-    background: linear-gradient(-90deg, transparent, #111111 35%)
+    background: linear-gradient(-90deg, #111111 35%, rgba(17,17,17,0) 100%);
 }
 
 .text-primary,
