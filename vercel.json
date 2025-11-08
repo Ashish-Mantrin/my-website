@@ -1,5 +1,6 @@
 {
   "rewrites": [
     { "source": "/:page", "destination": "/:page.html" }
-  ]
+  ],
+  "cleanUrls": true
 }
